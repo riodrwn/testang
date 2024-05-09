@@ -1,0 +1,4 @@
+[build]
+command = "echo 'No build command specified'"
+publish = "public/"
+functions = "functions/"
